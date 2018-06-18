@@ -65,7 +65,7 @@ script:
 
 deploy:
   provider: testfairy
-  api-key: "aa2f450c873d306064c9e227872fab23fac448ec"
+  api-key: "d1112d24f140c49354497c627a58d13bf7f97b8b"
   app-file: app/app-release.apk
   keystore-file: alertDialog_key.jks
   storepass: Quark@123
